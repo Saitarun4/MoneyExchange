@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "314119037874",
+    "project_id": "money-exchange-c613a",
+    "storage_bucket": "money-exchange-c613a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314119037874:android:e5ee2a1377a6e70f243aab",
+        "android_client_info": {
+          "package_name": "com.example.moneyexchange"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314119037874-iue44l23gn776spchhh778cdcrrkmetq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbFDLLtPr0U3eSghu5GgBMsNtfE8Z1hZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "314119037874-iue44l23gn776spchhh778cdcrrkmetq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
